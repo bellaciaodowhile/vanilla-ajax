@@ -1,6 +1,6 @@
 # vanilla-ajax
 Esta es una función que te permite hacer peticiones AJAX mediante XMLHttpRequest.
-# # Su uso es simple, enviando datos:
+### Su uso es simple, enviando datos:
 ```
 AJAXGJ8({
     url: 'Home/dashboard',
@@ -17,7 +17,7 @@ AJAXGJ8({
 });
 
 ```
-# # Su uso es simple, solo recibiendo datos:
+### Su uso es simple, solo recibiendo datos:
 ```
 AJAXGJ8({
     url: 'Home/dashboard',

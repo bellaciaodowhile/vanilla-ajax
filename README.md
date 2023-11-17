@@ -1,7 +1,7 @@
 # vanilla-ajax
 Esta es una función que te permite hacer peticiones AJAX mediante XMLHttpRequest.
 ### Su uso es simple, enviando datos:
-```
+```javascript
 AJAX({
     url: 'Home/dashboard',
     data: [{
@@ -18,7 +18,7 @@ AJAX({
 
 ```
 ### Su uso es simple, solo recibiendo datos:
-```
+```javascript
 AJAX({
     url: 'Home/dashboard',
     success: function(res) {
